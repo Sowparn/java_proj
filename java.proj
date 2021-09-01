@@ -3,6 +3,9 @@ public class Greeter {
         return "Project for AchiStar Technologies";
         return "DevOps Project for AchiStar Technologies";
         return "DevOps Project for AchiStar Technologies";
+       return "Project for AchiStar Technologies";
+        return "DevOps Project for AchiStar Technologies";
+        return "DevOps Project for AchiStar Technologies";
 
     }
 }
